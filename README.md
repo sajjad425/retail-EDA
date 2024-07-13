@@ -1,11 +1,7 @@
 # retail-EDA
 To conduct a comprehensive Exploratory Data Analysis (EDA) on the provided sample Superstore dataset, we will follow these detailed steps:
 
- Data Overview and Initial Inspection
- Data Cleaning
- Descriptive Statistics
- Data Visualization
- Identifying Business Problems and Weak Areas
+ Data Overview and Initial Inspection, Data Cleaning, Descriptive Statistics, Data Visualization and Identifying Business Problems and Weak Areas
 
 Let's start with each step.
 
