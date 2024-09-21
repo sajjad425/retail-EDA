@@ -8,7 +8,7 @@
 
 ## Dataset Description
 To conduct a comprehensive Exploratory Data Analysis (EDA) on the provided sample Superstore dataset, we will follow these detailed steps:
-Data Overview and Initial Inspection, Data Cleaning, Descriptive Statistics, Data Visualization and Identifying Business Problems for Weak Areas
+Data Overview and Initial Inspection, Data Cleaning, Descriptive Statistics, Data Visualization and Identifying Business Problems for Weak Areas.\n
 Let's start with each step.
 
 ## 1. Data Overview and Initial Inspection
