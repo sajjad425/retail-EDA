@@ -1,4 +1,11 @@
-# retail-EDA
+<div align="center">
+  
+# Retail EDA
+
+</div>
+
+![retailEDA](https://github.com/user-attachments/assets/59c10e0c-cd00-42cc-ae1b-ff8fd9acd0d8)
+
 To conduct a comprehensive Exploratory Data Analysis (EDA) on the provided sample Superstore dataset, we will follow these detailed steps:
 
  Data Overview and Initial Inspection, Data Cleaning, Descriptive Statistics, Data Visualization and Identifying Business Problems for Weak Areas
