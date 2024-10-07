@@ -26,7 +26,7 @@ We will create visualizations to uncover patterns and relationships in the data.
 
 - Sales and Profit analysis by different categories such as Segment, Region, and Sub-Category.
 - Analysis of Discounts and their impact on Profit.
-- Visualization of high-profit and low-profit areas.
+- Visualization of high-profit and low-profit.
 
 ## 5. Identifying Business Problems and Weak Areas
 Based on the EDA, we will identify key business problems and areas where improvements can be made to increase profitability.
